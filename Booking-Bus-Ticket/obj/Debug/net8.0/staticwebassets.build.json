@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Lx/gWcf+U8pl05MWCNQGhg0nd4EUBJb6qZIigJrX1ao=",
+  "Hash": "RSwlzWEHV1EJuqLDH4dwbz6Zbkmdgt/LqjHUd/APt6I=",
   "Source": "Booking-Bus-Ticket",
   "BasePath": "_content/Booking-Bus-Ticket",
   "Mode": "Default",
@@ -16,44 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "C:\\Users\\lepot\\Documents\\Projects\\CodeAlone\\Online Bus Ticket\\Online-Booking-Bus-Ticket-\\Booking-Bus-Ticket\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Booking-Bus-Ticket.styles.css",
-      "SourceId": "Booking-Bus-Ticket",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\lepot\\Documents\\Projects\\CodeAlone\\Online Bus Ticket\\Online-Booking-Bus-Ticket-\\Booking-Bus-Ticket\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/Booking-Bus-Ticket",
-      "RelativePath": "Booking-Bus-Ticket.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\lepot\\Documents\\Projects\\CodeAlone\\Online Bus Ticket\\Online-Booking-Bus-Ticket-\\Booking-Bus-Ticket\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Booking-Bus-Ticket.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\lepot\\Documents\\Projects\\CodeAlone\\Online Bus Ticket\\Online-Booking-Bus-Ticket-\\Booking-Bus-Ticket\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Booking-Bus-Ticket.bundle.scp.css",
-      "SourceId": "Booking-Bus-Ticket",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\lepot\\Documents\\Projects\\CodeAlone\\Online Bus Ticket\\Online-Booking-Bus-Ticket-\\Booking-Bus-Ticket\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/Booking-Bus-Ticket",
-      "RelativePath": "Booking-Bus-Ticket.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\lepot\\Documents\\Projects\\CodeAlone\\Online Bus Ticket\\Online-Booking-Bus-Ticket-\\Booking-Bus-Ticket\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Booking-Bus-Ticket.bundle.scp.css"
-    },
     {
       "Identity": "C:\\Users\\lepot\\Documents\\Projects\\CodeAlone\\Online Bus Ticket\\Online-Booking-Bus-Ticket-\\Booking-Bus-Ticket\\wwwroot\\css\\site.css",
       "SourceId": "Booking-Bus-Ticket",

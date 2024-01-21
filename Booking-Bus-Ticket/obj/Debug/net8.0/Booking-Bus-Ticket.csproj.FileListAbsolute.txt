@@ -132,9 +132,7 @@ C:\Users\lepot\Documents\Projects\CodeAlone\Online Bus Ticket\Online-Booking-Bus
 C:\Users\lepot\Documents\Projects\CodeAlone\Online Bus Ticket\Online-Booking-Bus-Ticket-\Booking-Bus-Ticket\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Booking-Bus-Ticket.props
 C:\Users\lepot\Documents\Projects\CodeAlone\Online Bus Ticket\Online-Booking-Bus-Ticket-\Booking-Bus-Ticket\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Booking-Bus-Ticket.props
 C:\Users\lepot\Documents\Projects\CodeAlone\Online Bus Ticket\Online-Booking-Bus-Ticket-\Booking-Bus-Ticket\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\lepot\Documents\Projects\CodeAlone\Online Bus Ticket\Online-Booking-Bus-Ticket-\Booking-Bus-Ticket\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\lepot\Documents\Projects\CodeAlone\Online Bus Ticket\Online-Booking-Bus-Ticket-\Booking-Bus-Ticket\obj\Debug\net8.0\scopedcss\bundle\Booking-Bus-Ticket.styles.css
-C:\Users\lepot\Documents\Projects\CodeAlone\Online Bus Ticket\Online-Booking-Bus-Ticket-\Booking-Bus-Ticket\obj\Debug\net8.0\scopedcss\projectbundle\Booking-Bus-Ticket.bundle.scp.css
 C:\Users\lepot\Documents\Projects\CodeAlone\Online Bus Ticket\Online-Booking-Bus-Ticket-\Booking-Bus-Ticket\obj\Debug\net8.0\Booking-Bus-Ticket.csproj.CopyComplete
 C:\Users\lepot\Documents\Projects\CodeAlone\Online Bus Ticket\Online-Booking-Bus-Ticket-\Booking-Bus-Ticket\obj\Debug\net8.0\Booking-Bus-Ticket.dll
 C:\Users\lepot\Documents\Projects\CodeAlone\Online Bus Ticket\Online-Booking-Bus-Ticket-\Booking-Bus-Ticket\obj\Debug\net8.0\refint\Booking-Bus-Ticket.dll
