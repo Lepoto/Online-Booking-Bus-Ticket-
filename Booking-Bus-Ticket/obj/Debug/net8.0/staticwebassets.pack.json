@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\lepot\\Documents\\Projects\\CodeAlone\\Online Bus Ticket\\Online-Booking-Bus-Ticket-\\Booking-Bus-Ticket\\wwwroot\\css\\booking.css",
+      "PackagePath": "staticwebassets\\css\\booking.css"
+    },
+    {
       "Id": "C:\\Users\\lepot\\Documents\\Projects\\CodeAlone\\Online Bus Ticket\\Online-Booking-Bus-Ticket-\\Booking-Bus-Ticket\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

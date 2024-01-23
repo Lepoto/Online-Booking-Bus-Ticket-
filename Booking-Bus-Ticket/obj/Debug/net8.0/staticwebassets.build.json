@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RSwlzWEHV1EJuqLDH4dwbz6Zbkmdgt/LqjHUd/APt6I=",
+  "Hash": "38cU2MGAuacWzwmCPxDtjUxU5/SKEwLSLLJvIyxBstE=",
   "Source": "Booking-Bus-Ticket",
   "BasePath": "_content/Booking-Bus-Ticket",
   "Mode": "Default",
@@ -16,6 +16,25 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\lepot\\Documents\\Projects\\CodeAlone\\Online Bus Ticket\\Online-Booking-Bus-Ticket-\\Booking-Bus-Ticket\\wwwroot\\css\\booking.css",
+      "SourceId": "Booking-Bus-Ticket",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lepot\\Documents\\Projects\\CodeAlone\\Online Bus Ticket\\Online-Booking-Bus-Ticket-\\Booking-Bus-Ticket\\wwwroot\\",
+      "BasePath": "_content/Booking-Bus-Ticket",
+      "RelativePath": "css/booking.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\booking.css"
+    },
     {
       "Identity": "C:\\Users\\lepot\\Documents\\Projects\\CodeAlone\\Online Bus Ticket\\Online-Booking-Bus-Ticket-\\Booking-Bus-Ticket\\wwwroot\\css\\site.css",
       "SourceId": "Booking-Bus-Ticket",

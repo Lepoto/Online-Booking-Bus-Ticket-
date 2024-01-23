@@ -26,7 +26,7 @@ namespace Booking_Bus_Ticket.Controllers
         [HttpPost]
         public async Task<IActionResult> LoginAsync(LoginVM model)
         {
-            if(ModelState.IsValid)
+            if (ModelState.IsValid)
             {
                 // login the user
                 var respond = await signInManager.PasswordSignInAsync(model.Username!, model.Password!, model.RememberMe, false);
@@ -36,10 +36,48 @@ namespace Booking_Bus_Ticket.Controllers
                     // redirect to home page
                 }
 
-                ModelState.AddModelError("","Invalid Login Attempt");
+                ModelState.AddModelError("", "Invalid Login Attempt");
                 return View();
             }
+            return View();
+        }
+
+        public IActionResult Register()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> RegisterAsync(RegisterVM model)
+        {
+            if (ModelState.IsValid)
+            {
+                ApplicationUser user = new()
+                {
+                    Name = model.Name,
+                    Surname = model.Surname,
+                    Email = model.Email,
+                    UserName = model.Email,
+                    Address = model.Address,
+                };
+
+                var respond = await userManager.CreateAsync(user, model.Password);
+
+                if ( respond.Succeeded)
+                {
+                    /*wait signInManager.SignInAsync(user, false);*/
+                    return RedirectToAction("Index", "Home");
+                    
+                }
+
+                foreach (var error in respond.Errors)
+                {
+                    ModelState.AddModelError("", error.Description);
+                }
+            }
+
             return View(model);
         }
+        
     }
 }

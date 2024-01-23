@@ -1,0 +1,44 @@
+﻿@using Booking_Bus_Ticket.Models.View
+@model RegisterVM
+
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/_AccountUser.cshtml";
+}
+
+<div class="wrapper">
+    <form method="post" asp-action="Register">
+        <h1>Bus Tickets - Booking </h1>
+        <h3>Register to book today!</h3>
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="input-box">
+
+            <input type="text" name="" placeholder="Name" asp-for="Name" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <div class="input-box">
+            <input type="text" name="" placeholder="Surname" asp-for="Surname" />
+            <span asp-validation-for="Surname" class="text-danger"></span>
+        </div>
+        <div class="input-box">
+            <input type="text" name="" placeholder="Email" asp-for="Email"/>
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+
+
+        <div class="input-box">
+            <input type="password" name="" placeholder="Password" asp-for="Password" />
+            <span asp-validation-for="Password" class="text-danger"></span>
+        </div>
+
+        <div class="input-box">
+            <input type="password" name="" placeholder="Confirm Password" asp-for="ConfirmPassword"/>
+            <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+        </div>
+
+        <input type="submit" class="btn" value="Register"/>
+        <div class="register-link">
+            <p>Have an account? <a asp-action="Login">Login here</a></p>
+        </div>
+    </form>
+</div>
